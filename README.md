@@ -49,4 +49,12 @@ Tools used to build EFI folder:
 In the begining used @ducnm9 EFI, later used these tools to build/update EFI folder:
 
 @Pavo-IM Opencore builder
-@corpnewt MountEFI Commmand-line file and also his OCConfigCompare Command-line file.
+@corpnewt MountEFI Commmand-line file and also his OCConfigCompare Command-line file, links below:
+
+https://github.com/ducnm9/Hackintosh-Intel-i5-10400-Asrock-B460M-Steel-Legend
+
+https://github.com/Pavo-IM/ocbuilder
+
+https://github.com/corpnewt/OCConfigCompare
+
+https://github.com/corpnewt/MountEFI
