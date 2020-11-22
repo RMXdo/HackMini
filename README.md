@@ -58,3 +58,5 @@ https://github.com/Pavo-IM/ocbuilder
 https://github.com/corpnewt/OCConfigCompare
 
 https://github.com/corpnewt/MountEFI
+
+Important NOTE: Please change MLB, SystemSerialNumber, SystemUUID into your Config.plist file, PlatformInfo section.
