@@ -1,5 +1,5 @@
 # HackMini
-Hackintosh build with ASROCK B460M Steel Legend_i5-10600k_Sapphire Radeon RX580 Pulse 8GB
+ASROCK B460M Steel Legend Hackintosh
 
 (-*-)
 
