@@ -41,3 +41,12 @@ What's Not working (or in working progress):
 
 Thunderbolt 3 AIC R2.0 pcie card not recognised, Thunderbolt 3 maybe working if the external usb-C device is connected from the boot.
 Apart from that, everything else works including Sidecar. Haven't tested Handoff, iMessage and Airdrop yet.
+
+(-*-)
+
+Tools used to build EFI folder:
+
+In the begining used @ducnm9 EFI, later used these tools to build/update EFI folder:
+
+@Pavo-IM Opencore builder
+@corpnewt MountEFI Commmand-line file and also his OCConfigCompare Command-line file.
