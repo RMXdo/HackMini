@@ -21,6 +21,8 @@ Here are the main specs:
 
 • PSU: JLN-1600F 1600w
 
+• Case: ionz KZ17 Micro ATX Cube
+
 (-*-)
 
 +Peripherals:
