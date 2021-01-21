@@ -59,7 +59,7 @@ https://github.com/corpnewt/MountEFI
 
 Important NOTE: Please change MLB, SystemSerialNumber, SystemUUID into your Config.plist file, PlatformInfo section.
 
---- Last update on 22th Nov:⤵
+--- Last update on 21th Jan, 2021:⤵
 
 
-Shutdow won't work properly, I need to resolve this.
+Still Shutdown won't work.
