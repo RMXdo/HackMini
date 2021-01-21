@@ -15,9 +15,9 @@ Here are the main specs:
 
 • Add-on PCIE-Card 1: Sonnet Technologies USB3-4PM-E Allegro
 
-• Add-on PCIE-Card 2: Thunderbolt 3 AIC R2.0
+• Add-on PCIE-Card 2: Gigabyte Titan Ridge v2
 
-• Storage: Sabrent Rocket Q 2 TB Nvme
+• Storage: Samsung 980 Pro 1TB
 
 • PSU: JLN-1600F 1600w
 
@@ -33,16 +33,12 @@ Here are the main specs:
 
 • External SoundCard: Creative Sound BlasterX G5
 
-• AmazonBasics USB-A 3,1 10-Port Hub with Power Adapter
-
 • Monitor: Samsung U32R592 32" Curved UHD 4K
 
 (-*-)
 
 What's Not working (or in working progress):
-
-Thunderbolt 3 AIC R2.0 pcie card not recognised, Thunderbolt 3 maybe working if the external usb-C device is connected from the boot.
-Apart from that, everything else works including Sidecar. Haven't tested Handoff, iMessage and Airdrop yet.
+Motherboard's built-in usb 3.0 ports, Haven't tested SideCar and Airdrop yet.
 
 (-*-)
 
