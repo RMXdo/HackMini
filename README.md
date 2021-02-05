@@ -64,4 +64,4 @@ Important NOTE: Please change MLB, SystemSerialNumber, SystemUUID into your Conf
 --- Last update on 5th of Feb, 2021:⤵
 
 
-Still Shutdown won't work. Because of this problem I'm planning to sell this motherboard and replace this MSI Z490m Gaming Edge Wifi with same listed parts above.
+Still Shutdown won't work. Because of this problem I'm planning to sell this motherboard and replace this motherboard with MSI Z490m Gaming Edge Wifi and will be with same listed parts above.
