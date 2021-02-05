@@ -15,7 +15,7 @@ Here are the main specs:
 
 • Add-on PCIE-Card 1: Sonnet Technologies USB3-4PM-E Allegro
 
-• Add-on PCIE-Card 2: Gigabyte Titan Ridge v2
+• Add-on PCIE-Card 2: Inateck KU5211 (https://www.inateck.com/products/pcie-to-usb-3-2-gen-2-card-with-20-gbps-bandwidth-3-usb-type-a-and-2-usb-type-c-ports-ku5211-red)
 
 • Storage: Samsung 980 Pro 1TB
 
@@ -57,9 +57,11 @@ https://github.com/corpnewt/OCConfigCompare
 
 https://github.com/corpnewt/MountEFI
 
+I had added also Gigabyte Titan Ridge 2, before I changed to Inateck KU5211, (I flashed card with custom, MacOS compatible firmware), And I had proper 40GBps Thunderbolt 3 (aswell was showing in System info under Thunderbolt).
+
 Important NOTE: Please change MLB, SystemSerialNumber, SystemUUID into your Config.plist file, PlatformInfo section.
 
---- Last update on 21th Jan, 2021:⤵
+--- Last update on 5th of Feb, 2021:⤵
 
 
-Still Shutdown won't work.
+Still Shutdown won't work. Because of this problem I'm planning to sell this motherboard and replace this MSI Z490m Gaming Edge Wifi with same listed parts above.
