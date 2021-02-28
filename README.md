@@ -17,7 +17,7 @@ Here are the main specs:
 
 • Add-on PCIE-Card 2: Inateck KU5211 (https://www.inateck.com/products/pcie-to-usb-3-2-gen-2-card-with-20-gbps-bandwidth-3-usb-type-a-and-2-usb-type-c-ports-ku5211-red)
 
-• Storage: Samsung 980 Pro 1TB
+• Storage: Sabrent 1tb nvme
 
 • PSU: JLN-1600F 1600w
 
