@@ -9,7 +9,7 @@ Here are the main specs:
 
 • CPU: Intel® Core™ i5-10600K
 
-• GPU: Sapphire AMD RX 580 8GB (with NZXT KRAKEN G12 GPU Cooling bracket)
+• GPU: iGPU
 
 • Memory: Corsair Vengeance RGB PRO 64 GB (4x16 GB) DDR4 2666
 
